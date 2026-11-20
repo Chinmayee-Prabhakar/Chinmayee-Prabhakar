@@ -28,7 +28,7 @@ Systematic simulation study of data-only learning, physics-informed networks, an
 
 [![Indoor quadrotor simulation](https://raw.githubusercontent.com/Chinmayee-Prabhakar/Autonomous-Aerial-Robotics/main/assets/indoor_facility.png)](https://github.com/Chinmayee-Prabhakar/Autonomous-Aerial-Robotics)
 
-6-DoF simulation with cascaded control, window perception, trajectory generation, a rotating-arm obstacle, and a Blender-image-guided end-to-end mission. The reported evaluation includes **3/3 completed predefined full missions**, two safe aborts in deliberately unsafe cases, and **214/214 source tests**. This is an offline simulation using ideal vehicle-state feedback, not a hardware demonstration.  
+6-DoF simulation with cascaded control, window perception, trajectory generation, a rotating-arm obstacle, and a Blender-image-guided end-to-end mission. The reported evaluation includes **3/3 completed predefined full missions**, two safe aborts in deliberately unsafe cases, and **214/214 source tests**. 
 **Python · Blender · trajectory planning · feedback control** · [Code and demo](https://github.com/Chinmayee-Prabhakar/Autonomous-Aerial-Robotics)
 
 ### Perception Stack for Autonomous Navigation
@@ -43,7 +43,7 @@ Implemented image matching, triangulation, camera registration, and bounded loca
 
 ### Monocular ORB-Based Visual SLAM
 
-Built an ORB-based system with essential-matrix geometry, map-based PnP, sparse mapping, and local bundle adjustment. Evaluated tracking successes and failures on KITTI Odometry, explicitly documenting limited continuous tracking and map restarts.  
+Built an ORB-based system with essential-matrix geometry, map-based PnP, sparse mapping, and local bundle adjustment. Evaluated tracking successes and failures on KITTI Odometry.  
 **Python · OpenCV · estimation** · [Code and evaluation](https://github.com/Chinmayee-Prabhakar/orb-slam-mono)
 
 ## Additional robotics projects
