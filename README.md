@@ -1,7 +1,5 @@
 <img align="right" width="170" alt="Baymax waving hello" src="https://media1.tenor.com/m/35cwOl7x56sAAAAd/baymax-bighero6.gif" />
 
-## Hi there 👋
-
 # Chinmayee Prabhakar
 
 **Robotics research • Multi-robot estimation • Learning-enabled dynamics & control • Aerial autonomy**
