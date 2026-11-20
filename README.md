@@ -15,12 +15,12 @@ I have published first-author research on decentralized multi-robot localization
 **Decoupled Multi-Robot Localization and Target Tracking via Dynamic Covariance Scaling and Inverse Covariance Fusion**  
 *Chinmayee Prabhakar and Siavash Farzan — American Control Conference (ACC), 2025*  
 Decentralized estimation under noisy range-bearing measurements and limited communication. Combined unscented-transform propagation, dynamic covariance scaling for covariance intersection, and inverse-covariance-weighted target fusion.  
-[Publication record](https://dblp.org/rec/conf/amcc/PrabhakarF25) · **Research code:** public release not yet available
+[Publication record](https://dblp.org/rec/conf/amcc/PrabhakarF25](https://ieeexplore.ieee.org/document/11107921) · 
 
 **When Does Physics Help? A Systematic Study of Physics-Guided Learning for Robotic Contact Dynamics**  
 *First-author paper — ICLR 2026 AI & PDE Workshop*  
 Systematic simulation study of data-only learning, physics-informed networks, and UDE-based approaches for material-conditioned contact dynamics, including sparse/noisy observations and transfer to previously unseen materials.  
-[Paper (OpenReview)](https://openreview.net/forum?id=NsDwAHwNLB) · **Research code:** being reviewed for a reproducible public release
+[Paper (OpenReview)](https://openreview.net/forum?id=NsDwAHwNLB) ·
 
 ## Featured implementations
 
