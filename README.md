@@ -1,10 +1,10 @@
-<img align="right" width="200" alt="Baymax waving hello" src="https://media1.tenor.com/m/35cwOl7x56sAAAAd/baymax-bighero6.gif" />
 
 ## Hi there 👋
 
-# Chinmayee Prabhakar
+# Chinmayee Prabhakar <img src="https://media1.tenor.com/m/35cwOl7x56sAAAAd/baymax-bighero6.gif" height="200" alt="Baymax waving" />
 
 **Robotics research • Multi-robot estimation • Learning-enabled dynamics & control • Aerial autonomy**
+
 
 I am a robotics engineer with an M.S. in Mechatronics, Robotics & Automation Engineering (thesis track) from Worcester Polytechnic Institute. My research interests lie at the intersection of **state estimation, planning, and control**, with a focus on autonomous robots operating under uncertainty in sensing and dynamics. I am applying to robotics-related PhD programs for Fall 2027.
 
