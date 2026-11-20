@@ -7,7 +7,7 @@
       <h1>Chinmayee Prabhakar</h1>
     </td>
     <td align="right">
-      <img src="https://media1.tenor.com/m/35cwOl7x56sAAAAd/baymax-bighero6.gif" width="90" alt="Baymax waving" />
+      <img src="https://media1.tenor.com/m/35cwOl7x56sAAAAd/baymax-bighero6.gif" width="200" alt="Baymax waving" />
     </td>
   </tr>
 </table>
